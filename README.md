@@ -3,9 +3,9 @@
 
 ![Badge](https://img.shields.io/badge/license-MIT-green)
 ![Badge](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Badge](https://img.shields.io/github/last-commit/gPagio/multivix-8s-2b-pei)
-![Badge](https://img.shields.io/github/languages/count/gPagio/multivix-8s-2b-pei)
-![Badge](https://img.shields.io/github/repo-size/gPagio/multivix-8s-2b-pei)
+![Badge](https://img.shields.io/github/last-commit/gPagio/multivix-8s-2b-pei?cache_bust=1)
+![Badge](https://img.shields.io/github/languages/count/gPagio/multivix-8s-2b-pei?cache_bust=1)
+![Badge](https://img.shields.io/github/repo-size/gPagio/multivix-8s-2b-pei?cache_bust=1)
 
 ## 📜 Descrição
 
