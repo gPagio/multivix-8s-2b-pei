@@ -11,7 +11,7 @@
 
 **Ecoleta** é um jogo interativo e educativo desenvolvido como parte do Projeto de Extensão Interdisciplinar (PEI) do curso de Sistemas de Informação. O objetivo do jogo é ensinar crianças e jovens sobre a importância da coleta seletiva e da reciclagem de lixo de uma maneira divertida e envolvente.
 
-No jogo, os jogadores são desafiados a arrastar diferentes tipos de lixo para as lixeiras corretas (plástico, papel, metal, vidro e orgânico) dentro de um tempo limite. O jogo possui uma tela inicial, uma tela de jogo principal e uma tela de "Game Over" que exibe a pontuação final.
+No jogo, os jogadores são desafiados a arrastar diferentes tipos de lixo para as lixeiras corretas (plástico, papel, metal, vidro e orgânico). O jogo possui uma tela inicial, uma tela de jogo principal e uma tela de "Game Over" que exibe a pontuação final.
 
 ## 🚀 Tecnologias Utilizadas
 
