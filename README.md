@@ -1,5 +1,5 @@
 
-# Ecoleta: Jogo da Coleta Seletiva
+# ♻️ Ecoleta: Jogo da Coleta Seletiva
 
 ![Badge](https://img.shields.io/badge/license-MIT-green)
 ![Badge](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
